@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-xxtea-master.flake = false;
+  inputs.src-xxtea-master.ref   = "refs/heads/master";
   inputs.src-xxtea-master.owner = "xxtea";
-  inputs.src-xxtea-master.ref   = "master";
   inputs.src-xxtea-master.repo  = "xxtea-nim";
   inputs.src-xxtea-master.type  = "github";
   
