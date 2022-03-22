@@ -1,5 +1,5 @@
 {
-  description = ''XXTEA encryption algorithm library written in pure Nim.'';
+  description = ''XXTEA for encryption algorithm library Nim.'';
 
   inputs.flakeNimbleLib.owner = "riinr";
   inputs.flakeNimbleLib.ref   = "master";
@@ -9,7 +9,7 @@
   
   inputs.src-xxtea-master.flake = false;
   inputs.src-xxtea-master.owner = "xxtea";
-  inputs.src-xxtea-master.ref   = "refs/heads/master";
+  inputs.src-xxtea-master.ref   = "master";
   inputs.src-xxtea-master.repo  = "xxtea-nim";
   inputs.src-xxtea-master.type  = "github";
   
