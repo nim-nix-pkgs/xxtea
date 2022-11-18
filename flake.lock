@@ -236,11 +236,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1667334909,
-        "narHash": "sha256-OEpSm7eMtZMstbuKjl0cCZ3oMfJruSpittpT6BJMd4Q=",
+        "lastModified": 1668749160,
+        "narHash": "sha256-WneXonOUP3BCnOa3xYWe10pLqENfXvwIb1+aTK7bOws=",
         "owner": "nim-nix-pkgs",
         "repo": "xxtea",
-        "rev": "da03d683c15aea9be8e21ff53ddf68e800a6d603",
+        "rev": "34cd20ce27c0f43b62ef55de3a68f3befaa15ed0",
         "type": "github"
       },
       "original": {
